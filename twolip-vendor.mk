@@ -1120,12 +1120,11 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
-    datastatusnotification \
     imssettings \
     uceShimService \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
     vendor.qti.gnss@3.0-service \
-	libthermalclient \
+    libthermalclient \
     FingerprintExtensionService
